@@ -6,6 +6,8 @@ Added experiments can be found in `geofree` folder
 │   ├── experiment_scene_consistency
 │   └── experiment_segmentation   
 ```
+The report can be found [here](3dml_report.pdf).
+
 ![teaser](assets/firstpage.jpg)
 
 [**Geometry-Free View Synthesis: Transformers and no 3D Priors**](https://compvis.github.io/geometry-free-view-synthesis/)<br/>
