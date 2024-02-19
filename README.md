@@ -1,4 +1,11 @@
 # Geometry-Free View Synthesis: Transformers and no 3D Priors
+Added experiments can be found in `geofree` folder
+```
+├── geofree
+│   ├── experiment_clip
+│   ├── experiment_scene_consistency
+│   └── experiment_segmentation   
+```
 ![teaser](assets/firstpage.jpg)
 
 [**Geometry-Free View Synthesis: Transformers and no 3D Priors**](https://compvis.github.io/geometry-free-view-synthesis/)<br/>
