@@ -4,8 +4,7 @@ This readme provides an overview of the modifications aimed at addressing the is
 
 For instance, consider the following gif extracted from one of the demos presented in the paper, illustrating a significant shift in scene style:
 
-![Visualization of scene style shift](https://drive.google.com/uc?export=view&id=1V94b4Nd-fVi4Trd_7GZ5SR6hoQuAcLlS)
-
+![Visualization of scene style shift](https://drive.google.com/uc?export=view&id=1pc0saQd1wfc7trBRRX3yQvdDO3zVccLq)
 
 Within this folder, three different ideas are explored:
 
